@@ -1,9 +1,9 @@
 
 ### Instruction
-#### Step one: start the Neo4j desktop 
+#### Step one: start the [Neo4j desktop](https://neo4j.com/download-center/#desktop) 
 #### Step two: Create a new project and then create a local DBMS connection with a password as "1234" and click on start which will navigate to the Neo4j browser.
 #### Step three: come back to the Neo4j desktop and Copy the data.csv file provided in the zip folder to the import folder which can be done by clicking the open_folder - import
-#### Step four: run the csc790.py file as python [csc790.py]() and you will see the results. 
+#### Step four: run the csc790.py file as python [csc790.py](https://github.com/sakibb019/Advance-Database-project/blob/main/CSC790.py) and you will see the results. 
 
 ### Result
 #### 1. The leaf nodes in the graph are ```['Dr.Asif', 'Dr.Mohammed', 'Dr.MVRao', 'Dr.Sayeed', 'Dr.Sai', 'Dr.Ganesh', 'Dr.mallesh', 'Dr.Mallikaarjun', 'Dr.Shahed', 'Dr.Jani'] ```. The total time taken for the opeation is 0.03423326499760151 seconds
